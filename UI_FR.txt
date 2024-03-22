@@ -1,0 +1,18 @@
+UI_FR = {
+	UI_optionscreen_binding_SlingBindings = "Extra Raccourcis",
+    UI_optionscreen_binding_Hotbar 6 = "Raccourcis 6",
+    UI_optionscreen_binding_Hotbar 7 = "Raccourcis 7",
+    UI_optionscreen_binding_Hotbar 8 = "Raccourcis 8",
+    UI_optionscreen_binding_Hotbar 9 = "Raccourcis 9",
+    UI_optionscreen_binding_Hotbar 10 = "Raccourcis 10",
+    UI_optionscreen_binding_Hotbar 11 = "Raccourcis 11",
+    UI_optionscreen_binding_Hotbar 12 = "Raccourcis 12",
+    UI_optionscreen_binding_Hotbar 13 = "Raccourcis 13",
+    UI_optionscreen_binding_Hotbar 14 = "Raccourcis 14",
+    UI_optionscreen_binding_Hotbar 15 = "Raccourcis 15",
+    UI_optionscreen_binding_Hotbar 16 = "Raccourcis 16",
+    UI_optionscreen_binding_Hotbar 17 = "Raccourcis 17",
+    UI_optionscreen_binding_Hotbar 18 = "Raccourcis 18",
+    UI_optionscreen_binding_Hotbar 19 = "Raccourcis 19",
+    UI_optionscreen_binding_Hotbar 20 = "Raccourcis 20",
+}

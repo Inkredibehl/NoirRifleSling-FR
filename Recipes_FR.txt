@@ -1,0 +1,3 @@
+Recipes_FR = {
+    Recipe_Make_Rifle_Sling = "Fabriquer Sangle pour Fusil",
+}
