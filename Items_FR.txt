@@ -1,4 +1,4 @@
-Items_FR = {
+ItemName_FR = {
 	Base.SlingA = "Sangle pour Fusil",
 	Base.SlingAalt = "Sangle pour Fusil",
 	Base.SlingAalt2 = "Sangle pour Fusil",
