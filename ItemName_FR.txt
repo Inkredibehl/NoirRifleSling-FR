@@ -1,0 +1,6 @@
+ItemName_FR = {
+	Base.SlingA = "Sangle pour Fusil",
+	Base.SlingAalt = "Sangle pour Fusil",
+	Base.SlingAalt2 = "Sangle pour Fusil",
+	Base.SlingAalt3 = "Sangle pour Fusil",
+}
